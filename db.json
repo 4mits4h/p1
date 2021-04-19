@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "name": "amit",
+      "email": "kumaramitsah.aks@gmail.com",
+      "address": "bd street",
+      "price": "1200",
+      "id": 1
+    },
+    {
+      "name": "rohan",
+      "email": "rohan@gmail.com",
+      "address": "rohan street",
+      "price": "2000",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "rahul",
+      "email": "rahual@gmail.com",
+      "password": "89809",
+      "id": 2
+    },
+    {
+      "name": "amit",
+      "email": "amit@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "roma",
+      "email": "roma@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "komal",
+      "email": "komal@gmail.com",
+      "password": "1234",
+      "id": 5
+    }
+  ],
+  "sample": [
+    {
+      "title": "peter",
+      "author": "peter@gmail.com",
+      "price": "1234",
+      "id": 1
+    }
+  ]
+}
